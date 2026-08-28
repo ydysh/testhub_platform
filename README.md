@@ -239,16 +239,3 @@ docker-compose up -d   # 一键启动全栈服务
 ## 📝 许可证
 
 本项目采用 GPL 3.0 许可证 - 详见 [LICENSE](LICENSE) 文件
-
-## 📧 联系方式
-
-如有问题或建议，欢迎通过 Issue 反馈，也可以扫码添加作者，加入官方交流群。
-![img_1.png](static_files/img_1.png)
-
-<u>[TestHub 官网](https://testhub.aisky.cloud)</u>
-![img_2.png](static_files/img_2.png)
----
-
-<div align="center">
-Made with ❤️ by 大刚（公众号：测试开发实战）
-</div>
